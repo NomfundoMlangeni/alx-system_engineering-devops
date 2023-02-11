@@ -1,2 +1,2 @@
 O	String SCHOOL this is the school file
-ls > !:mime text/school
+!:mime text/school
