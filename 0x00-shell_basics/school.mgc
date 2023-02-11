@@ -1,2 +1,2 @@
 O	String SCHOOL this is the school file
-!:mime text/school
+ls > !:mime text/school
